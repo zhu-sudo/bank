@@ -17,4 +17,4 @@ unlock.c 解锁 data 存储用户信息
 Makefile 编译执行脚本 save.c 存款
 struct.h 结构体存储头文件 tools.h 工具函数头文件
 
-此处所用getch.h的头文件为自建头文件（linux下没有conio.h头文件） 如果有需要可以私我
+此处所用getch.h的头文件为自建头文件（linux下没有conio.h头文件）
